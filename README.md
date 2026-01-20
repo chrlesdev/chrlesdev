@@ -42,15 +42,6 @@ Currently focused on **web development**, learning how things work *under the ho
 
 ---
 
-### 📌 Current Focus
-
-- Building real-world projects
-- Understanding async logic & backend workflows
-- Writing cleaner, more maintainable code
-- Improving UI/UX instincts (less clutter, more clarity)
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
