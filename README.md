@@ -53,7 +53,7 @@ Currently focused on **web development**, learning how things work *under the ho
 ### 🤝 Let’s Connect
 
 - 📫 Email: charlescornelio0813@gmail.com
-- 💼 Portfolio: charlesdev.vercel.app
+- 💼 Portfolio: https://charlesdev.vercel.app/
 - 🌐 GitHub: https://github.com/chrlesdev 
 
 ---
